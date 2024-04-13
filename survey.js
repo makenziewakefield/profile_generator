@@ -25,7 +25,7 @@ rl.question("What is your name? Nicknames are also acceptable :) ", (answer1) =>
           let superpower = answer5;
           console.log(`I'll let the Avengers know about your ${superpower} power 🦸`);
 
-          const paragraph = `This is ${name}! They enjoy ${activity} and their favourite food is ${food}. If you asked them they wouls say they are a ${dogOrCat} person and if they could have one superpower it would be ${superpower}.`
+          const paragraph = `This is ${name}! They enjoy ${activity} and their favourite food is ${food}. If you asked them they would say they are a ${dogOrCat} person and if they could have one superpower it would be ${superpower}.`
 
           console.log(paragraph);
 
